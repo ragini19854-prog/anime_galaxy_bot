@@ -12,6 +12,10 @@ bot = telebot.TeleBot(BOT_TOKEN)
 
 # 🔹 Anime Database (directly in Python)
 anime_data = {
+    "Doremon": "https://t.me/Doremon_In_Hindi_Dubed",
+    "Pokemon": "https://t.me/Pokemon_In_Dub_Hindi",
+    "Parman": "https://t.me/parmanepisods",
+    "I am getting married to a girl I hate in my class": "https://t.me/iamhebes"
     "naruto": "https://t.me/Naruto_Shippuden_in_HindiDubb",
     "jujutsu kaisen": "https://t.me/+PoJtNvoMs4NlY2I9",
     "dragon ball": "https://t.me/Dragon_Ball_in_English_Dub",
